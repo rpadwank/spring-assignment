@@ -19,6 +19,6 @@ public class OrganizationAppTest
 	System.out.println(orgn.getBranchWiseHead());
 	System.out.println(orgn.getIpAddresses());*/
 	System.out.println(orgn);
-	System.out.println(orgn.getAddress());
+	//System.out.println(orgn.getAddress());
     }
 }
